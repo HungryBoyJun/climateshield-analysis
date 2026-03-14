@@ -1,0 +1,7 @@
+year,trca_rcp85,model_pred,within_90ci
+2025,21,20.5,True
+2030,24,22.2,True
+2035,27,23.8,True
+2040,31,25.4,False
+2045,34,26.8,False
+2050,38,28.1,False

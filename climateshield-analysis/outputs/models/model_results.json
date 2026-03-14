@@ -1,0 +1,31 @@
+{
+  "heat_projection": {
+    "r2": 0.8102,
+    "rmse": 2.0554,
+    "mae": 1.8386,
+    "cv_r2_mean": -1.604,
+    "cv_r2_std": 1.7777,
+    "trca_checkpoints_validated": 3
+  },
+  "flood_frequency": {
+    "r2": 0.8248,
+    "rmse": 0.783,
+    "mae": 0.5831,
+    "cv_r2_mean": -12.0016,
+    "top_feature": "insured_losses_m_cad"
+  },
+  "hospitalisation": {
+    "r2": 1.0,
+    "rmse": 0.1586,
+    "mae": 0.1308,
+    "avoided_hospitalisations_backtest": 1267
+  },
+  "response_time": {
+    "r2": 0.9671,
+    "rmse": 0.1661,
+    "mae": 0.1334,
+    "status_quo_avg_hrs": 9.24,
+    "climateshield_avg_hrs": 3.7,
+    "reduction_pct": 60.0
+  }
+}
