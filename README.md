@@ -1,7 +1,7 @@
 # ClimateShield — Data Science Pipeline by TEAM 3
 
 > **AI Urban Climate Risk Platform for Durham Region, Ontario**
-> Ontario Tech University · Brilliant Catalyst Smart Communities Challenge · March 2026 · Track 3: Climate Resilience Urban Ecosystem
+> Ontario Tech and Centennial College Collab · Brilliant Catalyst Smart Communities Challenge · Team 3: Climate Resilience Urban Ecosystem
 
 ---
 
