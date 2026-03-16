@@ -1,0 +1,12 @@
+{
+  "best_heat_model": "poly_ridge",
+  "best_heat_model_cv_mae": 0.4553525751300841,
+  "best_heat_model_cv_r2": 0.8910309445101504,
+  "best_classifier": "logistic_regression",
+  "best_classifier_f1": 0.8571428571428571,
+  "best_response_model": "elastic_net",
+  "best_response_model_mae_hours": 0.20343462078828164,
+  "best_response_model_r2": 0.9098177802701771,
+  "top_infrastructure_hotspot": "Residential Zones",
+  "stress_score_2050": 0.7
+}

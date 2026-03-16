@@ -1,0 +1,9 @@
+infrastructure_category,pct_at_risk,estimated_replacement_value_m_cad,current_monitoring,source,monitoring_penalty,priority_index,priority_rank
+Residential Zones,44,8500,,GEI Consultants 2022 + TRCA Flood Ready Durham,1.5,0.7206896551724138,1
+Agricultural Land,80,1100,,GEI Consultants 2022 + TRCA Flood Ready Durham,1.5,0.6952941176470588,2
+Green Spaces / Wetlands,67,0,,GEI Consultants 2022 + TRCA Flood Ready Durham,1.5,0.5491379310344828,3
+Stormwater Drains,52,890,,GEI Consultants 2022 + TRCA Flood Ready Durham,1.5,0.4694056795131846,4
+Industrial Zones,31,2300,,GEI Consultants 2022 + TRCA Flood Ready Durham,1.5,0.3645334685598377,5
+Roads & Bridges,38,4200,Partial,GEI Consultants 2022 + TRCA Flood Ready Durham,1.2,0.297079107505071,6
+Electrical Substations,29,650,Partial,GEI Consultants 2022 + TRCA Flood Ready Durham,1.2,0.08107505070993914,7
+Emergency Services,22,420,Partial,GEI Consultants 2022 + TRCA Flood Ready Durham,1.2,0.01729411764705882,8

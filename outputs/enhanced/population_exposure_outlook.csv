@@ -1,0 +1,14 @@
+year,population,is_projection,source,exposed_population_est,pop_growth_rate_pct
+1991,458616,False,Statistics Canada Census,208097,
+1996,485993,False,Statistics Canada Census,220519,5.96948209395225
+2001,506901,False,Statistics Canada Census,230006,4.302119577854002
+2006,561258,False,Statistics Canada Census,254671,10.72339569265004
+2011,608124,False,Statistics Canada Census,275936,8.35017050981901
+2016,645862,False,Statistics Canada Census,293060,6.20564227032645
+2021,699116,False,Statistics Canada Census,317224,8.245414655143058
+2026,762000,True,Durham Region Official Plan 2023 (medium scenario),345758,8.9947877033282
+2031,849000,True,Durham Region Official Plan 2023 (medium scenario),385234,11.41732283464567
+2036,942000,True,Durham Region Official Plan 2023 (medium scenario),427432,10.954063604240272
+2041,1045000,True,Durham Region Official Plan 2023 (medium scenario),474169,10.934182590233554
+2046,1182000,True,Durham Region Official Plan 2023 (medium scenario),536332,13.11004784688996
+2051,1300000,True,Durham Region Official Plan 2023 (medium scenario),589875,9.983079526226724
