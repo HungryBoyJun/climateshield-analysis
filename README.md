@@ -139,14 +139,14 @@ All data is sourced from official Canadian government and peer-reviewed reports.
 
 ## Team
 
-**Ontario Tech University — Track 3: Climate Resilience Urban Ecosystem**
-Brilliant Catalyst Smart Communities Challenge · March 2026
+**TEAM CEN-TECH (OntarioTech and Centennial College) — Team 3: Climate Resilience Urban Ecosystem**
+Brilliant Catalyst Smart Communities Challenge · March 13-14, 2026
 
-- [Name] — CEO, Project Strategy & Vision
-- [Name] — CTO, AI & Software Architecture
-- [Name] — COO, Operations & Partnerships
-- [Name] — CMO, Municipality & Community Outreach
-- [Name] — Energy Lead, IoT Sensors & Energy Engineering
+- Zainab Lawa — Software Engineering, 3rd year, Ontario Tech
+- Siddharta Shukla — Design Lead, Centennial College
+- Parmilla Shams — CFO, Centennial College
+- Michael Gomez — Architecture, Centennial College
+- Jun De Guzman — Data Analyst, Masters, Ontario Tech
 
 ---
 
