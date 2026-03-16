@@ -157,7 +157,7 @@ MIT License — open for collaboration with municipalities, conservation authori
 
 ## Enhanced analysis files
 
-This version includes a stronger real-data notebook and script that extend the original `ClimateShield_Analysis.ipynb`:
+This version includes a stronger real-data notebook and script that extend the original `ClimateShield_RealData_Modeling.ipynb`:
 
 - `notebooks/ClimateShield_Enhanced_Analysis.ipynb`
 - `scripts/run_enhanced_analysis.py`
