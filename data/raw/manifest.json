@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-03-14T04:04:50.529053",
+  "datasets": {
+    "population": {
+      "rows": 13,
+      "columns": [
+        "year",
+        "population",
+        "is_projection",
+        "source"
+      ]
+    },
+    "heat": {
+      "rows": 40,
+      "columns": [
+        "year",
+        "extreme_heat_days",
+        "data_type",
+        "source"
+      ]
+    },
+    "temperature": {
+      "rows": 74,
+      "columns": [
+        "year",
+        "mean_temp_c",
+        "source"
+      ]
+    },
+    "flood_risk": {
+      "rows": 8,
+      "columns": [
+        "infrastructure_category",
+        "pct_at_risk",
+        "estimated_replacement_value_m_cad",
+        "current_monitoring",
+        "source"
+      ]
+    },
+    "funding": {
+      "rows": 8,
+      "columns": [
+        "year",
+        "fcm_gmf_disbursed_m_cad",
+        "infra_canada_climate_m_cad",
+        "num_municipalities_funded",
+        "source"
+      ]
+    },
+    "impacts": {
+      "rows": 9,
+      "columns": [
+        "year",
+        "insured_losses_m_cad",
+        "heat_hospitalizations_ontario",
+        "flood_events_durham",
+        "avg_response_time_hrs",
+        "source"
+      ]
+    }
+  }
+}

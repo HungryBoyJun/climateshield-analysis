@@ -1,0 +1,10 @@
+year,insured_losses_m_cad,heat_hospitalizations_ontario,flood_events_durham,avg_response_time_hrs,source,extreme_heat_days,heat_days_lag1,heat_days_lag2,hosp_per_heat_day,loss_per_flood_event,cumulative_losses_m,response_time_index
+2015,1200,312,3,5.2,IBC Severe Weather Report + Public Safety Canada DFAA,19,,,16.42105263157895,400.0,1200,1.0
+2016,980,287,2,4.8,IBC Severe Weather Report + Public Safety Canada DFAA,16,19.0,,17.9375,490.0,2180,0.923076923076923
+2017,1850,445,4,6.1,IBC Severe Weather Report + Public Safety Canada DFAA,20,16.0,19.0,22.25,462.5,4030,1.173076923076923
+2018,2100,398,5,5.9,IBC Severe Weather Report + Public Safety Canada DFAA,17,20.0,16.0,23.41176470588235,420.0,6130,1.1346153846153846
+2019,1650,521,3,5.5,IBC Severe Weather Report + Public Safety Canada DFAA,21,17.0,20.0,24.80952380952381,550.0,7780,1.0576923076923077
+2020,2400,634,6,6.8,IBC Severe Weather Report + Public Safety Canada DFAA,14,21.0,17.0,45.285714285714285,400.0,10180,1.3076923076923077
+2021,3100,712,7,7.2,IBC Severe Weather Report + Public Safety Canada DFAA,18,14.0,21.0,39.55555555555556,442.85714285714283,13280,1.3846153846153846
+2022,2800,689,5,6.5,IBC Severe Weather Report + Public Safety Canada DFAA,22,18.0,14.0,31.318181818181817,560.0,16080,1.25
+2023,3450,823,8,7.8,IBC Severe Weather Report + Public Safety Canada DFAA,19,22.0,18.0,43.31578947368421,431.25,19530,1.5
